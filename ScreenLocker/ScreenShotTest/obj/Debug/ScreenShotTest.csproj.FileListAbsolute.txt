@@ -1,0 +1,21 @@
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.exe.config
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.exe
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.Form1.resources
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.Properties.Resources.resources
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.csproj.GenerateResource.Cache
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.exe
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\MongoDB.Bson.dll
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\MongoDB.Driver.dll
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.exe.config
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.exe
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.pdb
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.exe
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\ScreenShotTest.pdb
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\MongoDB.Bson.dll
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\bin\Debug\MongoDB.Driver.dll
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.csprojResolveAssemblyReference.cache
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.Form1.resources
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.Properties.Resources.resources
+D:\OneDrive\Professional\Programming Resources\Programming Tools\My Tools & Toolbar\ScreenLocker\ScreenShotTest\obj\Debug\ScreenShotTest.csproj.GenerateResource.Cache

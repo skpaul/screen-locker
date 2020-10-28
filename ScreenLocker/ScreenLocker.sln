@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenLocker", "ScreenLocker\ScreenLocker.csproj", "{ED7DED30-F387-4C19-915F-33C2AD57C363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{7F6C3D69-12D7-4034-911D-E2DCD4FB4E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MousePositionTracker", "MousePositionTracker\MousePositionTracker.csproj", "{9981B3C2-CD14-4698-9D69-C63798C3EE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenShotTest", "ScreenShotTest\ScreenShotTest.csproj", "{3A366AF5-B820-44E5-A03A-E0EA29F2D177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7DED30-F387-4C19-915F-33C2AD57C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7DED30-F387-4C19-915F-33C2AD57C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7DED30-F387-4C19-915F-33C2AD57C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7DED30-F387-4C19-915F-33C2AD57C363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6C3D69-12D7-4034-911D-E2DCD4FB4E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6C3D69-12D7-4034-911D-E2DCD4FB4E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6C3D69-12D7-4034-911D-E2DCD4FB4E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6C3D69-12D7-4034-911D-E2DCD4FB4E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9981B3C2-CD14-4698-9D69-C63798C3EE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9981B3C2-CD14-4698-9D69-C63798C3EE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9981B3C2-CD14-4698-9D69-C63798C3EE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9981B3C2-CD14-4698-9D69-C63798C3EE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A366AF5-B820-44E5-A03A-E0EA29F2D177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A366AF5-B820-44E5-A03A-E0EA29F2D177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A366AF5-B820-44E5-A03A-E0EA29F2D177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A366AF5-B820-44E5-A03A-E0EA29F2D177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

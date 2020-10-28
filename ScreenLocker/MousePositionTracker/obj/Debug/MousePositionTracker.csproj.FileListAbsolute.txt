@@ -1,0 +1,9 @@
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\bin\Debug\MousePositionTracker.exe.config
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\bin\Debug\MousePositionTracker.exe
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\bin\Debug\MousePositionTracker.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.csprojResolveAssemblyReference.cache
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.Properties.Resources.resources
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.csproj.GenerateResource.Cache
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.exe
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.pdb
+E:\Software\Programming Tools\My Tools & Toolbar\ScreenLocker\MousePositionTracker\obj\Debug\MousePositionTracker.frmMain.resources
